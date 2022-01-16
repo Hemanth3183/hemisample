@@ -1,2 +1,3 @@
 # hemisample
-Sample repository to learn using GitHub
+Sample repository to learn using GitHub.
+I am modifying this file in the stage branch.
