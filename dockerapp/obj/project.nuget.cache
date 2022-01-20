@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhToJ4MDdpQbnzOgZK1AXch2/MOUe8yoRrqlnvwTyEeJ2AgC1FgR2upPKvlMQ63yQrjtOXNY+93l2CMGAEkgsA==",
+  "success": true,
+  "projectFilePath": "C:\\Hemi\\Azure\\dockerapp\\dockerapp\\dockerapp\\dockerapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
